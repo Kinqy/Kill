@@ -1,0 +1,7 @@
+name: Sucide
+author: Kinqy
+version: 1.0
+main: me.colton.kill.Kill
+description: suicide plugin
+commands: 
+     suicide:
